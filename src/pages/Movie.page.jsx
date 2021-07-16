@@ -1,5 +1,11 @@
 const Movie = () => {
-  return <>Hi</>;
+  return (
+    <>
+      <div>
+        <img src="" />
+      </div>
+    </>
+  );
 };
 
 export default Movie;
